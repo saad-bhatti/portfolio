@@ -1,4 +1,4 @@
-# Software Engineer/Full-Stack Engineer
+# Software/Full-Stack Engineer
 
 ### About Me
 
@@ -72,12 +72,18 @@ University of Toronto, Scarborough, ON
 
 ### Skills
 
-Coming soon!
+#### Technical
+- Programming Languages: Java, C++, Python, JavaScript, TypeScript, HTML, CSS
+- Web Development: React, Node.js, Express, REST, GraphQL, Material-UI, UI/UX design
+- Databases: Relational (PostgreSQL, MySQL), Non-Relational (MongoDB), Neo4j, SurrealDB
+- Software Development: Agile, Scrum, Docker, Git, Design Patterns, CI/CD
+
+#### Soft Skills
+Communication, Collaboration, Organization, Analytical Thinking, Problem Solving
 
 ### Contact
 
-Feel free to reach out if you have any questions, inquiries, or just want to say hello! I'm always open to new opportunities and collaborations.
-My current response time is within 2-3 working days.
+Feel free to reach out if you have any questions, inquiries, or just want to say hello! I'm always open to new opportunities and collaborations.<br />My current response time is within 2-3 working days.
 
 - <b>Gmail</b>: saad.bhatti.cs@gmail.com
 - <b>Phone</b>: +1 (781) 692-9561
