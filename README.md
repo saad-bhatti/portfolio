@@ -10,8 +10,8 @@ Coming soon!
 
 | Project                                       | Link              |
 |:----------------------------------------------|:------------------|
-| ![Edopla](assets/img/Edopla.png)              | Coming soon!      |
-| ![CHub](assets/img/CHub.png)                  | Coming soon!      |
+| ![Edopla](assets/img/edopla.png)              | Coming soon!      |
+| ![CHub](assets/img/chub.png)                  | Coming soon!      |
 
 * * *
 
