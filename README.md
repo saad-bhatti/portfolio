@@ -8,12 +8,10 @@ Coming soon!
 
 ## Interact with my Work:
 
-| Project                                       | Link              |
-|:----------------------------------------------|:------------------|
-| ![Edopla](assets/img/edopla.png)              | Coming soon!      |
-| ![CHub](assets/img/chub.png)                  | Coming soon!      |
-
-* * *
+| Project                                                      | Link              |
+|:-------------------------------------------------------------|:------------------|
+| <img src="assets/img/edopla.png" alt="edopla" width="78"/>   | Coming soon!      |
+| <img src="assets/img/chub.png" alt="chub" width="75"/>       | Coming soon!      |
 
 ## Education
 
