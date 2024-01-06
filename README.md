@@ -2,7 +2,22 @@
 
 ## About Me
 
-Coming soon!
+Hi there! I am Saad Mohy-Uddin Bhatti, a recent University of Toronto graduate, seeking a full time role in either Toronto, Ontario or Boston, Massachusetts.
+
+For the past four years, I've gained expertise and developed vital skills in various areas of sofware development, including (but not limited to):
+- data structures
+- algorithmic design
+- object-oriented programming
+- full-stack development
+- UI/UX
+- machine learning & data mining
+- database design and implementation
+
+These days, I am seeking my first full time position in the industry, along with designing & developing my own side projects such as Edopla. Moreover, I am expanding skillset by pursuing AWS certification and learning Angular.js
+
+Outside work, I enjoy spending time with my friends & family, playing story-rich video games, and experiencing different cultures around the world.
+
+<b>In case you would like to know more about me, my work or have any questions, feel free to contact me. You can find my details at the bottom of this page.</b>
 
 * * *
 
