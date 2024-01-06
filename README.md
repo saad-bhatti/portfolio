@@ -10,8 +10,8 @@ Coming soon!
 
 | Project                                                      | Link              |
 |:-------------------------------------------------------------|:------------------|
-| <img src="assets/img/edopla.png" alt="edopla" width="78"/>   | Coming soon!      |
-| <img src="assets/img/chub.png" alt="chub" width="75"/>       | Coming soon!      |
+| <img src="assets/img/edopla.png" alt="edopla" width="100"/>   | Coming soon!      |
+| <img src="assets/img/chub.png" alt="chub" width="100"/>       | Coming soon!      |
 
 ## Education
 
