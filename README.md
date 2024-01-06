@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hello! I am Saad Mohy-Uddin Bhatti. I am an aspiring software and full-stack engineer seeking work in both Ontario, Canada and Boston, Massachusetts.  
+Coming soon!
 
 ### Interact with My Work
 
@@ -19,11 +19,56 @@ University of Toronto, Scarborough, ON
 
 ### Personal Projects
 
-Coming soon!
+#### Edopla - [GitHub Repository](https://github.com/saad-bhatti/Edopla)
+- Developed front-end using React TypeScript with Joy-UI, elevating the dynamics of the user interface.
+- Built backend infrastructure with Node.js, Typescript, and RESTful API Express for robust functionalities.
+- Managed database architecture using MongoDB, while ensuring optimal data storage, retrieval, and scalability.
+- Automated unit tests with Jest to validate the correctness and reliability of implemented backend features.
+- Created comprehensive documentation for features, ensuring well-documented insights for future reference.
+- Utilized Docker to streamline the deployment process, ensuring consistency across different environments.
 
 ### Academic Experience
 
-Coming soon!
+#### Zoomer - [GitHub Repository](https://github.com/saad-bhatti/JavaMicroservices)  
+*Introduction to Software Engineering, University of Toronto Scarborough, ON*
+- Engineered an API gateway, ensuring optimized communication between users and microservices.
+- Developed three backend RESTful microservices with PostgreSQL, MongoDB, and Neo4J databases, enhancing scalability and optimizing data management.
+- Utilized Java Maven framework and Docker, streamlining processes and efficient deployment.
+- Enhanced error handling, ensuring robust management of edge cases and improving overall system reliability.
+- Established CI/CD unit testing, ensuring robust quality assurance measures and reliable software outcomes.
+
+#### CHub - [GitHub Repository](https://github.com/saad-bhatti/CHub)
+*Introduction to Software Engineering, University of Toronto Scarborough, ON*
+- Adhered to Agile Development Framework and Scrum methodologies for efficient project management.
+- Orchestrated project management for a 7-member team using Jira and Trello, ensuring seamless collaboration.
+- Played a key role in front-end development with TypeScript and React Bootstrap, enhancing UI dynamics.
+- Led back-end development using Node.js, TypeScript, focusing on robust and scalable server functionalities.
+- Implemented comprehensive functional testing to validate the correctness, ensuring an error-free user experience.
+
+#### VoyageCanada - [GitHub Repository](https://github.com/saad-bhatti/VoyageCanada)
+*Introduction to Web Programming, University of Toronto Scarborough, ON*
+- Implemented the backend server with GraphQL and Node.js for robust backend server-side functionalities.
+- Orchestrated the database design and integration of MongoDB, with priority of efficiency of operations.
+- Played a role in deployment strategy with Docker, ensuring seamless deployment and scalability.
+- Participated in front-end development with React, contributing to dynamic and responsive user interfaces.
+
+#### PeerTasker - [Prototype](https://www.figma.com/proto/8QzoTMfcjxr2wYDf16zlxM/PeerTasker?type=design&node-id=386-8318&t=dJWoVtKNEala8Y1B-1&scaling=scale-down&page-id=386%3A6006&starting-point-node-id=386%3A8318&mode=design)
+*Human-Computer Interaction, University of Toronto Scarborough, ON*
+- Advocated for a user-centric design approach throughout the project, emphasizing the importance of prioritizing user needs and preferences in the decision-making process for optimal user experiences.
+- Applied effective interview and questionnaire techniques to gather and understand user requirements for the "PeerTasker" project, ensuring alignment with user needs and expectations.
+- Utilized prototyping tools such as Balsamiq for low-fidelity representations and Figma for high-fidelity prototypes, translating user requirements into tangible designs for iterative development.
+- Conducted comprehensive usability testing via questionnaires and interviews, systematically evaluating prototype interactions to identify and address user experience challenges.
+- Applied analytical skills to identify and address user-interface design issues in real-world scenarios, providing insightful recommendations for continuous improvement.
+- Demonstrated effective collaboration within a team environment contributing to a cohesive and productive group dynamic to achieve project goals.
+- Developed the ability to critically assess and provide constructive feedback to peers, fostering a culture of continuous improvement and collaboration within the project team.
+
+#### PintOS - [GitHub Repository]
+*Operating Systems, University of Toronto Scarborough, ON*
+- Implemented core components of an operating system including basic interrupt handling, MLFQS for efficient thread scheduling, and robust user process management.
+- Contributed significantly to the development of a fully functional file system based on the Fast File System (FFS), ensuring reliable storage and retrieval of data for user processes.
+- Implemented and integrated multiple system calls into the PintOS operating system, providing essential functionalities to user-level applications.
+- Played a key role in a collaborative effort to enhance the capabilities of PintOS, contributing to a larger project aimed at simulating real-world operating system functionalities and challenges.
+- Demonstrated strong debugging skills by identifying and resolving complex issues within the PintOS codebase, ensuring the stability and correctness of the operating system's behavior.
 
 ### Skills
 
@@ -34,7 +79,7 @@ Coming soon!
 Feel free to reach out if you have any questions, inquiries, or just want to say hello! I'm always open to new opportunities and collaborations.
 My current response time is within 2-3 working days.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-bhatti/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saad-bhatti)
-[![Gmail](https://img.shields.io/badge/saad.bhatti.cs@gmail.com%20-red?style=for-the-badge&logo=gmail&logoColor=white&text=saad.bhatti.cs@gmail.com)](mailto:saad.bhatti.cs@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-7816929561-blue?style=for-the-badge)](tel:7816929561)
+- <b>Gmail</b>: saad.bhatti.cs@gmail.com
+- <b>Phone</b>: +1 (781) 692-9561
+- <b>LinkedIn</b>: https://www.linkedin.com/in/saad-bhatti/
+- <b>GitHub</b>: https://github.com/saad-bhatti
