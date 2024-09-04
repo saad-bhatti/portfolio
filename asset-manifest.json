@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f35ae068.css",
-    "main.js": "/portfolio/static/js/main.a8f016a4.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/portfolio/static/css/main.a7d235e2.css",
+    "main.js": "/portfolio/static/js/main.5d6a0bf8.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/profile.JPG": "/portfolio/static/media/profile.8a38314708967fcc382a.JPG",
     "static/media/voyage_canada.png": "/portfolio/static/media/voyage_canada.31a67a46334bbd930116.png",
     "static/media/edopla.png": "/portfolio/static/media/edopla.c3fd95613cf3bdbf0cca.png",
@@ -14,13 +13,12 @@
     "static/media/figma.png": "/portfolio/static/media/figma.1d33b626c0dc6ab69a50.png",
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
-    "main.f35ae068.css.map": "/portfolio/static/css/main.f35ae068.css.map",
-    "main.a8f016a4.js.map": "/portfolio/static/js/main.a8f016a4.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.a7d235e2.css.map": "/portfolio/static/css/main.a7d235e2.css.map",
+    "main.5d6a0bf8.js.map": "/portfolio/static/js/main.5d6a0bf8.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f35ae068.css",
-    "static/js/main.a8f016a4.js"
+    "static/css/main.a7d235e2.css",
+    "static/js/main.5d6a0bf8.js"
   ]
 }
